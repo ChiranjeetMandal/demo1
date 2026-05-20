@@ -1,3 +1,11 @@
 This is a bug fix file.
 
 This is another fix added into the code.
+
+another bug detected and fixed.
+
+fourth bug fixed.
+
+fifth bug fixed
+
+sixth bug fixed.
