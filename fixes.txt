@@ -1,1 +1,3 @@
 This is a bug fix file.
+
+This is another fix added into the code.
